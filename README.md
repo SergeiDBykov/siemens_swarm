@@ -6,7 +6,6 @@ This repository contains a quick technical demonstration that we prepared to sup
 
 Required modules: `numpy`, `pandas`, `scikit-learn`,  `matplotlib`, `seaborn`.
 
-Needed modules: `numpy`, `pandas`, `scikit-learn`,  `matplotlib`, `seaborn`.
 
 ----
 # Section 1: data  
